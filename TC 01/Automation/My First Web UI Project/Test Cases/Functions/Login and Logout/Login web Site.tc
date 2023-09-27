@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Login web Site</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>2af1fa51-8660-4558-8a73-d416eca3a7c1</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>28f1f6e1-71e2-4190-a205-eda8a40fb963</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>28f1f6e1-71e2-4190-a205-eda8a40fb963</id>
+      <masked>false</masked>
+      <name>url</name>
+   </variable>
+</TestCaseEntity>

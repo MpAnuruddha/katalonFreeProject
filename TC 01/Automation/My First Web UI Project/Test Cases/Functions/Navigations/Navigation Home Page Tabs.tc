@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Navigation Home Page Tabs</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>48983067-d05c-4fb1-9a20-1d52c0729355</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>825d80f1-84b0-480c-bdfa-a030e36f900d</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>825d80f1-84b0-480c-bdfa-a030e36f900d</id>
+      <masked>false</masked>
+      <name>Tab_name</name>
+   </variable>
+</TestCaseEntity>

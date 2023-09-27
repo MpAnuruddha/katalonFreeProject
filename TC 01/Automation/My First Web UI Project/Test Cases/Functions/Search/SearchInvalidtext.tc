@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>SearchInvalidtext</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>957cd515-35f6-453c-9a9b-cb5dc57c951b</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>85afca9c-5b25-4e5c-9253-ea3db62600f1</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>85afca9c-5b25-4e5c-9253-ea3db62600f1</id>
+      <masked>false</masked>
+      <name>search_text</name>
+   </variable>
+</TestCaseEntity>
